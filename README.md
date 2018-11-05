@@ -2,7 +2,8 @@
 
 **Team:** Equipe Rocket.
 
-**Challenge:** 3D Challenge - When will the next rocket be released.
+**Challenge:** 3D Challenge - When will the next rocket be released.  
+**Details:** Equipe Rocket developed a cross-platform application that provides release information centrally for 3D Challenge - "When will the next rocket be released?" of Nasa Space Apps Challange 2018.  
 
 💡 **Cross-platform application that provides release information centrally**  
 
