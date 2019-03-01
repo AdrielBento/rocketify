@@ -1,4 +1,4 @@
-# 🚀 Rocketify - Space Apps Challange Nasa
+# 🚀 Rocketify - Space Apps Challenge Nasa
 
 **Team:** Equipe Rocket.
 
